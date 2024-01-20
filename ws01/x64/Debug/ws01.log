@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "int __cdecl seneca::menu(int)" (?menu@seneca@@YAHH@Z) referenced in function main
+C:\Users\nilav\OneDrive\Desktop\oop244\ws01\x64\Debug\ws01.exe : fatal error LNK1120: 1 unresolved externals
